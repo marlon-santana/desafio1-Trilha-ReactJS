@@ -31,10 +31,10 @@ interface Task {
   isComplete: boolean;
 }
 ```
-<p>[Técnologias Usadas]
--Typescript('https://www.typescriptlang.org/')
--Javascript('https://developer.mozilla.org/pt-BR/docs/Web/JavaScript')
--Css('https://developer.mozilla.org/pt-BR/docs/Web/CSS')
+<p>[Técnologias Usadas]</p>
+<p>-Typescript('https://www.typescriptlang.org/')</p>
+<p>-Javascript('https://developer.mozilla.org/pt-BR/docs/Web/JavaScript')</p>
+<p>-Css('https://developer.mozilla.org/pt-BR/docs/Web/CSS')</p>
 </p>
 - `should not be able to add a task with an empty title`
 Para que esse teste passe, antes de criar uma nova task, você deve validar se algo foi digitado no input e não permitir a criação da task caso o
